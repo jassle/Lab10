@@ -1,0 +1,7 @@
+C:\Users\Jason Leonard\Documents\Labs\Lab10\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\Jason Leonard\Documents\Labs\Lab10\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\Jason Leonard\Documents\Labs\Lab10\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\Jason Leonard\Documents\Labs\Lab10\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\Jason Leonard\Documents\Labs\Lab10\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\Jason Leonard\Documents\Labs\Lab10\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\Jason Leonard\Documents\Labs\Lab10\Lab10\Lab10\obj\Debug\Lab10.pdb
