@@ -23,7 +23,6 @@ namespace Lab10
                 PrintInfo(circle1);
                 repeat = Continue("Would you like to do another circle?");
             }
-
             Console.WriteLine($"You created {count} circles");
             Console.WriteLine("Goodbye!");
         }
@@ -36,16 +35,11 @@ namespace Lab10
                 Console.WriteLine("\nInvalid input" + prompt);
                 input = Console.ReadLine();
             }
-            double radius = double.Parse(input);
-            return radius;
+            return double.Parse(input);
         }
         static void PrintInfo(Circle circle1)
         {
-            Console.WriteLine("Radius: " + circle1.Radius);
-            Console.WriteLine("Circumference: "+circle1.CalculateFormattedCircumference());
-            Console.WriteLine("Area: "+circle1.CalculateFormattedArea());
-            
-
+            Console.WriteLine("Radius: " + circle1.Radius + "\nCircumference: " + circle1.CalculateFormattedCircumference() + "\nArea: " + circle1.CalculateFormattedArea());
         }
         static bool Continue(string Message)
         {
